@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "705328721175",
+    "firebase_url": "https://logbook2-36cc3-default-rtdb.firebaseio.com",
+    "project_id": "logbook2-36cc3",
+    "storage_bucket": "logbook2-36cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705328721175:android:e4464cf42caa97d0401b52",
+        "android_client_info": {
+          "package_name": "com.example.logbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdF9Jxf5nPDkQdt7gv50X6EaGB240faWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
